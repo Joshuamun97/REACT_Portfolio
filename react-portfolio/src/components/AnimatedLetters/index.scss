@@ -1,0 +1,22 @@
+.text-animate {
+    display: inline-block;
+    opacity: 0;
+    animation: bounceIn 4s 1s ;
+    animation-fill-mode: forwards;
+    min-width: 10px;
+}
+
+.text-animate-hover {
+    min-width: 10px;
+    display: inline-block;
+    animation-fill-mode: both;
+
+    &:hover {
+        animation: rubberBand 1s;
+        color:  #f3a8a800;
+    }
+
+}
+
+
+

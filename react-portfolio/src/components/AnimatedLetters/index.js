@@ -13,4 +13,6 @@ const AnimatedLetters = ({letterClass, strArray, idx}) => {
             }
         </span>
     )
-}
+};
+
+export default AnimatedLetters
