@@ -17,9 +17,16 @@
         img {
             display: block;
             margin: 8px auto;
-            width: 24px;
+            width: 40px;
             height: auto;
+
+
+    &:hover {
+        animation: rubberBand 1s;
+    }
         }
+
+
     }
 
     nav {
