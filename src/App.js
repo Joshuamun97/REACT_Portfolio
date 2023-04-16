@@ -9,12 +9,11 @@ import Contact from "./components/Contact";
 export default function App() {
     return (
         <>
+        <Layout />
             <Routes>
-                <Route path='/REACT_Portfolio' element={<Layout />} >
-                    <Route index element={<Home />} />
+                    <Route path='/' element={<Home />} />
                     <Route path="about" element={<About />} />
                     <Route path="contact" element={<Contact />} />
-                </Route>
             </Routes>;
         </>
     );
