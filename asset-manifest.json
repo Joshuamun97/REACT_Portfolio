@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/REACT_Portfolio/static/css/main.b057c030.css",
-    "main.js": "/REACT_Portfolio/static/js/main.7dba24f1.js",
+    "main.js": "/REACT_Portfolio/static/js/main.403a09c4.js",
     "static/media/jmdev.png": "/REACT_Portfolio/static/media/jmdev.745c58f65d591360e6b9.png",
     "static/media/anil-kumar-SXigdcQPbd8-unsplash (1).jpg": "/REACT_Portfolio/static/media/anil-kumar-SXigdcQPbd8-unsplash (1).ef8c5231e72e3fbdba9c.jpg",
     "static/media/helvetica-neu.ttf": "/REACT_Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
@@ -9,10 +9,10 @@
     "static/media/CoolveticaRg-Regular.woff2": "/REACT_Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/REACT_Portfolio/index.html",
     "main.b057c030.css.map": "/REACT_Portfolio/static/css/main.b057c030.css.map",
-    "main.7dba24f1.js.map": "/REACT_Portfolio/static/js/main.7dba24f1.js.map"
+    "main.403a09c4.js.map": "/REACT_Portfolio/static/js/main.403a09c4.js.map"
   },
   "entrypoints": [
     "static/css/main.b057c030.css",
-    "static/js/main.7dba24f1.js"
+    "static/js/main.403a09c4.js"
   ]
 }
