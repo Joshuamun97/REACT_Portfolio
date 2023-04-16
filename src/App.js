@@ -12,8 +12,8 @@ export default function App() {
         <Layout />
             <Routes>
                     <Route path='/REACT_Portfolio' element={<Home />} />
-                    <Route path="REACT_Portfolio/about" element={<About />} />
-                    <Route path="REACT_Portfolio/contact" element={<Contact />} />
+                    <Route path="/REACT_Portfolio/about" element={<About />} />
+                    <Route path="/REACT_Portfolio/contact" element={<Contact />} />
                 </Routes>;
         </>
     );
