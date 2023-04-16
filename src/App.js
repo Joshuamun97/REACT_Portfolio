@@ -10,7 +10,7 @@ export default function App() {
     return (
         <>
             <Routes>
-                <Route path="/REACT_Portfolio" element={<Layout />}>
+                <Route path="/REACT_Portfolio/" element={<Layout />}>
                     <Route index element={<Home />} />
                     <Route path="about" element={<About />} />
                     <Route path="contact" element={<Contact />} />
