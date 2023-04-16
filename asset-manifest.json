@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/REACT-app/static/css/main.073c9b0a.css",
-    "main.js": "/REACT-app/static/js/main.7fbc7222.js",
-    "static/js/787.a2cb61a6.chunk.js": "/REACT-app/static/js/787.a2cb61a6.chunk.js",
-    "static/media/logo.svg": "/REACT-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/REACT-app/index.html",
-    "main.073c9b0a.css.map": "/REACT-app/static/css/main.073c9b0a.css.map",
-    "main.7fbc7222.js.map": "/REACT-app/static/js/main.7fbc7222.js.map",
-    "787.a2cb61a6.chunk.js.map": "/REACT-app/static/js/787.a2cb61a6.chunk.js.map"
+    "main.css": "/REACT_Portfolio/static/css/main.b057c030.css",
+    "main.js": "/REACT_Portfolio/static/js/main.0177bb91.js",
+    "static/media/jmdev.png": "/REACT_Portfolio/static/media/jmdev.745c58f65d591360e6b9.png",
+    "static/media/anil-kumar-SXigdcQPbd8-unsplash (1).jpg": "/REACT_Portfolio/static/media/anil-kumar-SXigdcQPbd8-unsplash (1).ef8c5231e72e3fbdba9c.jpg",
+    "static/media/helvetica-neu.ttf": "/REACT_Portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/REACT_Portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/REACT_Portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/REACT_Portfolio/index.html",
+    "main.b057c030.css.map": "/REACT_Portfolio/static/css/main.b057c030.css.map",
+    "main.0177bb91.js.map": "/REACT_Portfolio/static/js/main.0177bb91.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.7fbc7222.js"
+    "static/css/main.b057c030.css",
+    "static/js/main.0177bb91.js"
   ]
 }
