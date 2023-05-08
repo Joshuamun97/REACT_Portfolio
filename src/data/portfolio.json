@@ -1,0 +1,53 @@
+{
+    "portfolio": [
+        {
+            "image": "./images/closeFriends.jpg",
+            "title": "Close Friends Social Media App",
+            "description": "A social media app for you and your close friends.",
+            "using": "React, Bootstrap, Grapgql",
+            "url": "https://stormy-basin-52509.herokuapp.com/"
+        },
+        {
+            "image": "closeFriends.jpg",
+            "title": "Close Friends Social Media App",
+            "description": "A social media app designed to stay in the loop with a close set of friends.",
+            "using": "React, Bootstrap, Grapgql",
+            "url": "https://stormy-basin-52509.herokuapp.com/"
+        },
+        {
+            "image": "closeFriends.jpg",
+            "title": "Close Friends Social Media App",
+            "description": "A social media app designed to stay in the loop with a close set of friends.",
+            "using": "React, Bootstrap, Grapgql",
+            "url": "https://stormy-basin-52509.herokuapp.com/"
+        },
+        {
+            "image": "closeFriends.jpg",
+            "title": "Close Friends Social Media App",
+            "description": "A social media app designed to stay in the loop with a close set of friends.",
+            "using": "React, Bootstrap, Grapgql",
+            "url": "https://stormy-basin-52509.herokuapp.com/"
+        },
+        {
+            "image": "closeFriends.jpg",
+            "title": "Close Friends Social Media App",
+            "description": "A social media app designed to stay in the loop with a close set of friends.",
+            "using": "React, Bootstrap, Grapgql",
+            "url": "https://stormy-basin-52509.herokuapp.com/"
+        },
+        {
+            "image": "closeFriends.jpg",
+            "title": "Close Friends Social Media App",
+            "description": "A social media app designed to stay in the loop with a close set of friends.",
+            "using": "React, Bootstrap, Grapgql",
+            "url": "https://stormy-basin-52509.herokuapp.com/"
+        },
+        {
+            "image": "closeFriends.jpg",
+            "title": "Close Friends Social Media App",
+            "description": "A social media app designed to stay in the loop with a close set of friends.",
+            "using": "React, Bootstrap, Grapgql",
+            "url": "https://stormy-basin-52509.herokuapp.com/"
+        }
+    ]
+}

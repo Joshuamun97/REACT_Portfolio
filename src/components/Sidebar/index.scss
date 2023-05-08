@@ -96,6 +96,11 @@
                 content: 'CONTACT';
             }
         }
+        a.portfolio-link {
+            &:after {
+                content: 'WORK';
+            }
+        }
 
         a.active {
             svg {

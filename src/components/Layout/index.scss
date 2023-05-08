@@ -39,7 +39,58 @@
 }
 
 .about-page,
-.contact-page {
+.contact-page,
+.portfolio-page {
+
+    h1 {
+        font-size: 53px;
+        font-family: 'Coolvetica';
+        color: #ffff;
+        font-weight: 400;
+        margin-top: 0;
+        position: relative;
+        margin-bottom: 40px;
+        left: 10px;
+
+        &::before {
+            content: '<h1>';
+            font-family: 'La Belle Aurore';
+            color: #8d8d8d;
+            font-size: 18px;
+            position: absolute;
+            margin-top: -15px;
+            left: -10px;
+            opacity: 0.6;
+            line-height: 18px;
+        }
+
+        &::after {
+            content: '</h1>';
+            font-family: 'La Belle Aurore';
+            color: #8d8d8d;
+            font-size: 18px;
+            line-height: 18px;
+            position: absolute;
+            margin-top: 15px;
+            left: -30px;
+            bottom: -22px;
+            margin-left: 20px;
+            opacity: 0.6;
+
+        }
+
+    }
+
+    p {
+        font-size: 17px;
+        color: #ffff;
+        font-family: sans-serif;
+        font-weight: 300;
+        animation: bounceIn 1s 1s;
+        animation-fill-mode: forwards;
+        min-width: fit-content;
+    }
+
     .text-zone {
         position: absolute;
         left: 10%;
@@ -49,60 +100,7 @@
         vertical-align: middle;
         display: table-cell;
         max-height: 90%;
-
-        h1 {
-            font-size: 53px;
-            font-family: 'Coolvetica';
-            color: #ffff;
-            font-weight: 400;
-            margin-top: 0;
-            position: relative;
-            margin-bottom: 40px;
-            left: 10px;
-
-            &::before {
-                content: '<h1>';
-                font-family: 'La Belle Aurore';
-                color: #8d8d8d;
-                font-size: 18px;
-                position: absolute;
-                margin-top: -15px;
-                left: -10px;
-                opacity: 0.6;
-                line-height: 18px;
-            }
-
-            &::after {
-                content: '</h1>';
-                font-family: 'La Belle Aurore';
-                color: #8d8d8d;
-                font-size: 18px;
-                line-height: 18px;
-                position: absolute;
-                margin-top: 15px;
-                left: -30px;
-                bottom: -22px;
-                margin-left: 20px;
-                opacity: 0.6;
-
-            }
-
-        }
-
-        p {
-            font-size: 17px;
-            color: #ffff;
-            font-family: sans-serif;
-            font-weight: 300;
-            animation: bounceIn 1s 1s ;
-            animation-fill-mode: forwards;
-            min-width: fit-content;
-        }
-
     }
 
-    .text-animate-hover {
-        
-    }
+    .text-animate-hover {}
 }
-
