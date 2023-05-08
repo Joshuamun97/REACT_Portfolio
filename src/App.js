@@ -14,7 +14,7 @@ export default function App() {
                 <Route element={<Layout />}>
                     <Route index element={<Navigate to="/REACT_Portfolio" />} />
                     <Route path="REACT_Portfolio" element={<Home />} />
-                    <Route path="REACT_Portfolio/about" element={<About />} />
+                    <Route path="about" element={<About />} />
                     <Route path="contact" element={<Contact />} />
                     <Route path="portfolio" element={<Portfolio />} />
                 </Route>
